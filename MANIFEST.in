@@ -1,0 +1,8 @@
+include src/autodj/annotation/style/song_theme_pca_model_pickle.pkl
+include src/autodj/annotation/downbeat/model.pkl
+include src/autodj/annotation/downbeat/scaler.pkl
+include src/autodj/annotation/singing/singingvoice_model.pkl
+include src/autodj/annotation/singing/singingvoice_scaler.pkl
+include src/autodj/annotation/style/song_theme_pca_model_2.pkl
+include src/autodj/annotation/style/song_theme_pca_model_python3.pkl
+include src/autodj/annotation/style/song_theme_scaler_2.pkl
