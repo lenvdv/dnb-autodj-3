@@ -72,7 +72,7 @@ The main changes in the code base are:
 
 * Stereo audio support (experimental, enabled by default).
 * All annotations are saved in a single .json file per song.
-* Code refactoring: separating annotation from DJ logic
+* Code refactoring: the annotation modules are now in a separate subpackage, and are incorporated into the auto-DJ application using wrapper classes.
 
 
 ## Copyright information
